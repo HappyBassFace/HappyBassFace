@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HappyBassFace
-- 👀 I’m interested in Computer networking
+- 👀 I’m interested in Linux and computers
 - 🌱 I’m currently learning currency trading
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
